@@ -7,8 +7,9 @@
     --text-light: #1e1e2e; 
     --text-link: #78c2ad;
     --underline: #375a7f;
-    --header: 'Pacifico', cursive;
-    --body: 'Josefin Sans', sans-serif; 
+    --logo: 'Fredoka One', system-ui;
+    --header: 'Russo One', sans-serif;
+    --body: "Jetbrains Mono Variable", monospace; 
 }
 
 html {
@@ -61,7 +62,7 @@ small, li {
 }
 
 .navbar__title {
-    font-family: var(--header);
+    font-family: var(--logo);
     font-size: 1.3rem;
 }
 
