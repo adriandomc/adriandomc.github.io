@@ -54,6 +54,10 @@ small, li {
     font-family: var(--body); 
 }
 
+#link {
+    color: #3f8f27;
+}
+
 /* Navigation Bar */
 .navbar {
     display: grid;
