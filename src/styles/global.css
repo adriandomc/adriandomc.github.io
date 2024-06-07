@@ -54,6 +54,11 @@ small, li {
     font-family: var(--body); 
 }
 
+#bigli {
+    font-family: var(--body);
+    font-size: 1.1rem;
+}
+
 #link {
     color: #3f8f27;
 }
