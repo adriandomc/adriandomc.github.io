@@ -7,16 +7,17 @@ import '@fontsource/russo-one';
 ---
 <BaseLayout pageTitle={frontmatter.title}>
     <h2>{frontmatter.title}</h2>
-    <slot />
+    
     <ul class="badge__list">
         <li><span class="badge badge--item">PLATAFORMA</span>{frontmatter.platform}</li>
         <li><span class="badge badge--item">STACK</span>{frontmatter.stack}</li>
         
         <li><span class="badge badge--item">GITHUB</span><a class="badge__link" href={frontmatter.github} target="_blank">{frontmatter.github}</a></li>
     </ul>
+    <slot />
     <div class="center">
-        <img class="pro-img" width="500px" height="281" src={frontmatter.worksImage1.url} alt={frontmatter.worksImage1.alt} />
-        <img class="pro-img" width="500px" height="281" src={frontmatter.worksImage2.url} alt={frontmatter.worksImage2.alt} />
+        <img class="pro-img"  height="281" src={frontmatter.worksImage1.url} alt={frontmatter.worksImage1.alt} />
+
     </div>
 </BaseLayout>
 
