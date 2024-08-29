@@ -17,37 +17,6 @@ html {
     color: var(--text);
 }
 
-@media (max-width: 425px) {
-    body {    
-        width: 90%; 
-        transition: all 1s;      
-    }
-}
-
-@media (min-width: 426px) and (max-width: 768px) {
-    body {    
-        width: 75%; 
-        transition: all 1s;      
-    }
-}
-
-@media (min-width: 769px) and (max-width: 1024px) {
-    body {    
-        width: 60%; 
-        transition: all 1s;      
-    }
-}
-
-@media (min-width: 1025px) {
-    body {    
-        width: 45%; 
-        transition: all 1s;      
-    }
-}
-
-
-
-
 body {
     margin: 0 auto;
     text-align: justify;
@@ -379,9 +348,6 @@ html.light {
 
 /* Media Query */
 @media only screen and (max-width: 600px) {
-    body {
-        width: 350px;
-    }
 
     .navbar {
         display: initial;
@@ -416,3 +382,30 @@ html.light {
     }
 }
 
+@media (max-width: 425px) {
+    body {    
+        width: 90%; 
+        transition: all 1s;      
+    }
+}
+
+@media (min-width: 426px) and (max-width: 768px) {
+    body {    
+        width: 75%; 
+        transition: all 1s;      
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    body {    
+        width: 60%; 
+        transition: all 1s;      
+    }
+}
+
+@media (min-width: 1025px) {
+    body {    
+        width: 45%; 
+        transition: all 1s;      
+    }
+}
