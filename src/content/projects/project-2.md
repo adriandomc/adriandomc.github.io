@@ -13,7 +13,7 @@ worksImage2:
 
 platform: Autodesk Inventor
 stack: None
-website: None
+website: ""
 github: https://github.com/cosmicdinodog/DIMAC-piston-inventor-files
 ---
 
@@ -21,4 +21,4 @@ Como parte de la Unidad de Enseñanza-Aprendizaje de Diseño mecánico asistido 
 
 Primero se crearon cada uno de los componentes (anillos, resorte, mango, eje, etc.) de manera individual y después se unieron por medio de un diseño de ensamblaje, con el cual se les otorgaron las respectivas restricciones y grados de libertad para cada componente. Una vez realizados los modelos tridimensionales, se llevaron a cabo los esquemáticos para poder comunicar las dimensiones de cada una de las piezas, así como una vista explosionada del producto con el número de partes.
 
-En el link de Github se pueden ver los archivos **IPT** de cada pieza y el ensamblaje, además de los archivos **PDF** de cada esquemático.
+En el link de Github se pueden ver los archivos **IPT** y **DWG** de cada pieza y el ensamblaje, además de los archivos **PDF** de cada esquemático.

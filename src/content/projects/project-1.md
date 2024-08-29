@@ -13,7 +13,7 @@ worksImage2:
 
 platform: Arduino
 stack: C++, Arduino
-website: None
+website: ""
 github: https://github.com/cosmicdinodog/arduino2560-midi-controller
 ---
 
