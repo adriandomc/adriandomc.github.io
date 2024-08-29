@@ -10,9 +10,10 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/node": "^8.3.3",
     "@fontsource-variable/jetbrains-mono": "^5.0.21",
     "@fontsource/fredoka-one": "^5.0.5",
     "@fontsource/russo-one": "^5.0.20",
-    "astro": "^4.1.3"
+    "astro": "^4.15.1"
   }
 }
