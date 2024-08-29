@@ -26,21 +26,21 @@ html {
 
 @media (min-width: 426px) and (max-width: 768px) {
     body {    
-        width: 80%; 
+        width: 75%; 
         transition: all 1s;      
     }
 }
 
 @media (min-width: 769px) and (max-width: 1024px) {
     body {    
-        width: 70%; 
+        width: 60%; 
         transition: all 1s;      
     }
 }
 
 @media (min-width: 1025px) {
     body {    
-        width: 60%; 
+        width: 45%; 
         transition: all 1s;      
     }
 }
