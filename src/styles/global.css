@@ -17,8 +17,38 @@ html {
     color: var(--text);
 }
 
+@media (max-width: 425px) {
+    body {    
+        width: 90%; 
+        transition: all 1s;      
+    }
+}
+
+@media (min-width: 426px) and (max-width: 768px) {
+    body {    
+        width: 80%; 
+        transition: all 1s;      
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    body {    
+        width: 70%; 
+        transition: all 1s;      
+    }
+}
+
+@media (min-width: 1025px) {
+    body {    
+        width: 60%; 
+        transition: all 1s;      
+    }
+}
+
+
+
+
 body {
-    max-width: 780px;
     margin: 0 auto;
     text-align: justify;
 }
