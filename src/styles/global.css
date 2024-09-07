@@ -385,7 +385,7 @@ html.light {
 
 @media (max-width: 425px) {
     body {    
-        width: 90%; 
+        width: 95%; 
         transition: all 1s;      
     }
 }
