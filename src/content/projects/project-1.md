@@ -14,7 +14,7 @@ worksImage2:
 platform: Arduino
 stack: C++, Arduino
 website: ""
-github: https://github.com/cosmicdinodog/arduino2560-midi-controller
+github: https://github.com/adriandomc/arduino2560-midi-controller
 ---
 
 El objetivo principal de armar este controlador es crear un dispositivo de fácil construcción y asequibilidad, con funcionalidad simple, personalizable y escalable. La elección de usar una tarjeta de desarrollo Arduino atiende al propósito de que pueda ser modificado su código fuente, además de que permite que la interfaz sea casi inmediata.

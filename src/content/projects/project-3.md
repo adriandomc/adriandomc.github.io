@@ -14,7 +14,7 @@ worksImage2:
 platform: HTML
 stack: HTML, CSS, Bootstrap, JS
 website: https://somoslaconcordia.netlify.app/
-github: https://github.com/cosmicdinodog/concordia
+github: https://github.com/adriandomc/concordia
 ---
 
 Como parte de una estrategia de promoción del nuevo material de la banda Concordia, se realizó un sitio web para mostrar elementos como la biografía de la banda y sus miembros, la música lanzada al momento, fotos de presentaciones pasadas, así como perfiles de redes sociales y formulario de contacto.

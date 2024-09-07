@@ -14,7 +14,7 @@ worksImage2:
 platform: Autodesk Inventor
 stack: None
 website: ""
-github: https://github.com/cosmicdinodog/DIMAC-piston-inventor-files
+github: https://github.com/adriandomc/DIMAC-piston-inventor-files
 ---
 
 Como parte de la Unidad de Enseñanza-Aprendizaje de Diseño mecánico asistido por computadora, se realizó como proyecto final un pistón mecánico. Realizado a partir de mediciones de un pistón, acompañado de planos descriptivos del mismo.
