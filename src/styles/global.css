@@ -45,13 +45,14 @@ h2 {
 p {
     font-family: var(--body);
     font-size: 1.1rem;
-    hyphens: auto;
     line-height: 1.5;
     /* text-indent: 1rem; */
 }
 
 small, li {
     font-family: var(--body); 
+    margin-bottom: 1rem;
+    text-align: left;
 }
 
 #bigli {
