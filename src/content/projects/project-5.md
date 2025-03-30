@@ -13,8 +13,8 @@ worksImage2:
 
 platform: Javascript
 stack: Javascript, PHP, CSS, RESTful API
-website: https://waak.dev
-github: https://waak.dev
+website: https://waak.dev#casos
+github: https://waak.dev#casos
 ---
 
 Como parte del desarrollo de un sistema para la asignación y monitoreo de rutas de transporte de personal, el cliente requería de una herramienta que mostrara el avance del autobús a lo largo de la ruta asignada. Por medio de una "línea del tiempo", se representa una ruta como un conjunto de paraderos (utilizando puntos) y un ícono de autobús para mostrar el paradero actual de la unidad.
