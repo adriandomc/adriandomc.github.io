@@ -12,11 +12,11 @@ worksImage2:
     alt: 'first image of your project.'
 
 platform: HTML
-stack: React, Vite, HTML, CSS, anime.js
+stack: Astro, React, Vite, HTML, CSS
 website: https://jiujitsukravmaga.com.mx
 github: https://github.com/adriandomc/kravmagaecatepec
 ---
 
 Este proyecto fue comisionado por parte del director de la escuela de Jiu Jitsu Krav Maga México, ubicada en Ecatepec, Estado de México. Para el diseño de esta página, se optó por usar el esquema de una landing page (página de aterrizaje) donde se pueda ubicar de una manera contenida y breve la información acerca de la escuela, así como los horarios, costos, ubicación y fotos descriptivas de lo que ahí se aprende.
 
-Para darle vida a esta página, utilicé el framework React (con componentes .jsx y Effect hooks), junto a la biblioteca anime.js para aplicar animaciones basadas en Javascript de forma sencilla. El splash screen que muestra el logo de la escuela y las garras fueron creados usando el stack descrito anteriormente.
+Para darle vida a esta página, utilicé el framework React además de Astro, para crear una experiencia de navegación rápida, además de integrar un sistema de slideshow de imágenes con lazy-loading y una visualización a pantalla completa del contenido multimedia. Integración con embedding de Google Maps para compartir la ubicación de la escuela y teléfonos de contacto.
